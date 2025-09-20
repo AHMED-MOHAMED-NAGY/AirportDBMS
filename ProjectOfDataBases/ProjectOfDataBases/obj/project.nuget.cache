@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWYFwfzlX1U=",
+  "dgSpecHash": "BJOszgGkz0g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\huawei\\source\\repos\\ProjectOfDataBases\\ProjectOfDataBases\\ProjectOfDataBases.csproj",
+  "projectFilePath": "C:\\Users\\huawei\\Desktop\\DataBases Project\\ProjectOfDataBases\\ProjectOfDataBases\\ProjectOfDataBases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\huawei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\huawei\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",

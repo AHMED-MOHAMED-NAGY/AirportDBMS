@@ -190,11 +190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\huawei\\source\\repos\\ProjectOfDataBases\\ProjectOfDataBases\\ProjectOfDataBases.csproj",
+      "projectUniqueName": "C:\\Users\\huawei\\Desktop\\DataBases Project\\ProjectOfDataBases\\ProjectOfDataBases\\ProjectOfDataBases.csproj",
       "projectName": "ProjectOfDataBases",
-      "projectPath": "C:\\Users\\huawei\\source\\repos\\ProjectOfDataBases\\ProjectOfDataBases\\ProjectOfDataBases.csproj",
+      "projectPath": "C:\\Users\\huawei\\Desktop\\DataBases Project\\ProjectOfDataBases\\ProjectOfDataBases\\ProjectOfDataBases.csproj",
       "packagesPath": "C:\\Users\\huawei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\huawei\\source\\repos\\ProjectOfDataBases\\ProjectOfDataBases\\obj\\",
+      "outputPath": "C:\\Users\\huawei\\Desktop\\DataBases Project\\ProjectOfDataBases\\ProjectOfDataBases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
